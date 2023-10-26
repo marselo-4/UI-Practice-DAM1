@@ -1,4 +1,4 @@
-# LlenguatgeMarques-DAM1
+# UI-Practice DAM1
 
 <h2>Yolanda Martínez | Carlos Martínez</h2>
 <p><b>Práctica 1 Lenguaje de Marcas DAM1</b> <i>24/10/2023</i></p>
