@@ -1,4 +1,4 @@
-# LlenguatgeMarques-DAM1
+# UI-Practice DAM1
 En esta práctica vamos a darle estilo al código que estructuramos en el <a href="https://github.com/marselo-4/LlenguatgeMarques-DAM1"><b>Repositorio Anterior.</b></a> 
 - Usaremos las librerías de <a href="https://getbootstrap.com"><b>Bootstrap</b></a> y <a href="https://sweetalert2.github.io"><b>SweetAlert</b></a>
 - Nuestro objetivo principal es tener nuestra página lo más parecida posible al Wireframe que podeis ver en la descripción
